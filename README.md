@@ -125,8 +125,16 @@ Based on the analysis, Mitron Bank can:
 # 🔗 Project Links
 
 Power BI Dashboard: [https://app.powerbi.com/view?r=eyJrIjoiN2I2YWM5YmYtYzA1MS00NWUyLTk4NzgtMTk2MmMwMjdkMDIxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
+
 ---
 
-# 📷 Dashboard Preview
+# 📷 Dashboard Snapshots
 
-(Add dashboard screenshots here)
+## Home Page
+![Home Page](Home.png)
+
+## Demographics Page
+![Demographics Page](Demographics.png)
+
+## Spending Analysis Page
+![Spending Analysis](Spending_Analysis.png)
